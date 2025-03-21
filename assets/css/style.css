@@ -3403,7 +3403,7 @@ hr {
 /* line 37, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_h1-hero.scss */
 .slider-area {
   margin-top: -1px;
-  background-image: url(../img/hero.png);
+  /*background-image: url(../img/hero.png);*/
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
